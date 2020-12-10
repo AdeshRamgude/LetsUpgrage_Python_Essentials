@@ -1,0 +1,2 @@
+# LetsUpgrage_Python_Essentials
+Python Essential Assignments
